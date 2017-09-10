@@ -1,4 +1,6 @@
-[![header](./header.png)](https://business.ramotion.com?utm_source=gthb&utm_medium=special&utm_campaign=folding-cell-android-logo)
+![header](./header.png)
+![Animation](./folding_cell_preview.gif)
+
 # FoldingCell for Android
 [![Circle CI](https://circleci.com/gh/Ramotion/folding-cell-android.svg?style=svg)](https://circleci.com/gh/Ramotion/folding-cell-android)
 [![Codacy Badge](https://api.codacy.com/project/badge/grade/339ae33122964163a55a5e8e90619cbc)](https://www.codacy.com/app/juri-v/folding-cell-android)
@@ -7,12 +9,14 @@
 
 ## About
 This project is maintained by Ramotion, Inc.<br>
-We specialize in the designing and coding of custom UI for Mobile Apps and Websites.<br><br>**Looking for developers for your project?** 
+We specialize in the designing and coding of custom UI for Mobile Apps and Websites.<br>
 
-<a href="https://business.ramotion.com?utm_source=gthb&utm_medium=special&utm_campaign=folding-cell-android-contact-us/#Get_in_Touch" > <img src="https://github.com/Ramotion/navigation-stack/raw/master/contact_our_team@2x.png" width="150" height="30"></a>
+**Looking for developers for your project?**<br>
+This project is maintained by Ramotion, Inc. We specialize in the designing and coding of custom UI for Mobile Apps and Websites.
 
-[![Animation](folding_cell_preview.gif)](https://dribbble.com/shots/2121350-Delivery-Card)
-The [Android mockup](https://store.ramotion.com?utm_source=gthb&utm_medium=special&utm_campaign=folding-cell-android) available [here](https://store.ramotion.com?utm_source=gthb&utm_medium=special&utm_campaign=folding-cell-android).
+<a href="https://ramotion.com/?utm_source=gthb&utm_medium=special&utm_campaign=folding-cell-android-contact-us/#Get_in_Touch"> 
+<img src="https://github.com/ramotion/gliding-collection/raw/master/contact_our_team@2x.png" width="187" height="34"></a> <br>
+
 
 ## Requirements
 ​
@@ -21,22 +25,22 @@ The [Android mockup](https://store.ramotion.com?utm_source=gthb&utm_medium=speci
 
 ## Installation
 ​
-Just download the package from [here](http://central.maven.org/maven2/com/ramotion/foldingcell/folding-cell/1.1.0/folding-cell-1.1.0.aar) and add it to your project classpath, or just use the maven repo:
+Just download the package from [here](http://central.maven.org/maven2/com/ramotion/foldingcell/folding-cell/1.2.1/folding-cell-1.2.1.aar) and add it to your project classpath, or just use the maven repo:
 
 Gradle:
 ```groovy
-'com.ramotion.foldingcell:folding-cell:1.1.0'
+'com.ramotion.foldingcell:folding-cell:1.2.1'
 ```
 SBT:
 ```scala
-libraryDependencies += "com.ramotion.foldingcell" % "folding-cell" % "1.1.0"
+libraryDependencies += "com.ramotion.foldingcell" % "folding-cell" % "1.2.1"
 ```
 Maven:
 ```xml
 <dependency>
 	<groupId>com.ramotion.foldingcell</groupId>
 	<artifactId>folding-cell</artifactId>
-	<version>1.1.0</version>
+	<version>1.2.1</version>
 </dependency>
 ```
 ​
@@ -143,8 +147,15 @@ You can find this and other, more complex, examples in this repository
 ​
 Folding cell is released under the MIT license.
 See [LICENSE](./LICENSE.md) for details.
-​
-## Follow Us
 
-[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=https://github.com/ramotion/foolding-cell-android)
-[![Twitter Follow](https://img.shields.io/twitter/follow/ramotion.svg?style=social)](https://twitter.com/ramotion)
+<br>
+
+# Get the Showroom App for iOS to give it a try
+Try our UI components in our iOS app. Contact us if interested.
+
+<a href="https://itunes.apple.com/app/apple-store/id1182360240?pt=550053&ct=folding-cell-android&mt=8" > 
+<img src="https://github.com/ramotion/gliding-collection/raw/master/app_store@2x.png" width="117" height="34"></a>
+<a href="https://ramotion.com/?utm_source=gthb&utm_medium=special&utm_campaign=folding-cell-android-contact-us/#Get_in_Touch"> 
+<img src="https://github.com/ramotion/gliding-collection/raw/master/contact_our_team@2x.png" width="187" height="34"></a>
+<br>
+<br>
